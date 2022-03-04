@@ -1,4 +1,9 @@
 # Kalkulator
+hasil ss Tsel Menu
+![mytsel](https://user-images.githubusercontent.com/99788791/156732919-4ca341d2-1de2-4d97-8cd8-b84614aca54f.png)
+![tsel 1](https://user-images.githubusercontent.com/99788791/156732935-f7d5e8bc-314c-4497-b7e5-c4f3ade83634.png)
+![tsel 2](https://user-images.githubusercontent.com/99788791/156732938-a035b81e-310b-4cfd-8c12-c7795c13c0e6.png)
+
 
 A new Flutter project.
 
